@@ -1,9 +1,8 @@
 # Hi, I'm Ali 👋
 
-Founder & ML developer building **NetWatch**, an AI-powered early warning system for internet shutdowns.  
-I believe open data and machine learning can protect digital freedom.
+I have started building **NetWatch**, an AI-powered early warning system for internet shutdowns.  
 
-`Python` `Machine Learning` `Data Engineering` `Anomaly Detection` `Open Source`
+`Python` `Machine Learning` `Data Engineering` `Anomaly Detection` 
 
 ---
 
@@ -16,7 +15,7 @@ Multi-source anomaly detection using OONI, IODA, Cloudflare Radar & BGP routing 
 
 ## Background
 
-AI/ML student at George Brown College, Toronto. I'm drawn to problems where technology meets human rights. Currently building in public and looking for collaborators who care about the same things.
+AI/ML student at George Brown College, Toronto. Currently building in public and looking for collaborators who care about the same things.
 
 ---
 
