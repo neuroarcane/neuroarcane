@@ -1,25 +1,24 @@
-# Hi, I'm Ali 👋
+# NeuroArcane
 
-I have started building **NetWatch**, an AI-powered early warning system for internet shutdowns.  
+### We train AI to see the internet going dark — before it does.
 
-`Python` `Machine Learning` `Data Engineering` `Anomaly Detection` 
+NeuroArcane is an AI lab, currently in semi-stealth. We build and train models that forecast internet disruptions — throttling and full shutdowns — before they take place.
 
----
+Our premise is simple: disruption is rarely sudden and rarely random. It shows up first as measurable shifts in how networks behave, and we train models to read those signals early.
 
-## What I'm building
-
-### 🔭 NetWatch, Internet Shutdown Early Warning System
-Multi-source anomaly detection using OONI, IODA, Cloudflare Radar & BGP routing data. Predicts internet shutdowns 30+ minutes before they happen. Built for journalists, NGOs, and businesses in high-risk regions.
+We're a small, hybrid team based in Toronto. More to come.
 
 ---
 
-## Background
+### Why there's no product repo here
 
-AI/ML student at George Brown College, Toronto. Currently building in public and looking for collaborators who care about the same things.
+We're in semi-stealth, so our core work isn't public yet.
+
+The repositories below are selected samples — projects built collaboratively with other AI/ML practitioners across hackathons, bootcamps, and applied projects. They reflect the kind of problems we work on: machine learning, anomaly detection, data engineering, and turning messy real-world signals into models.
 
 ---
 
-## Let's connect
+### Explore
+
 - 🌐 [neuroarcane.com](https://neuroarcane.com)
-- 📬 Ali@neuroarcane.com
 - 📍 Toronto, Canada
