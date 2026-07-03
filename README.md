@@ -2,7 +2,7 @@
 
 ### We train AI to see the internet going dark, before it does.
 
-NeuroArcane is an AI lab, currently in semi-stealth. We build and train models that forecast internet disruptions — throttling and full shutdowns — before they take place.
+NeuroArcane is an AI lab, currently in semi-stealth. We build and train models that forecast internet disruptions, throttling and full shutdowns, before they take place.
 
 Our premise is simple: disruption is rarely sudden and rarely random. It shows up first as measurable shifts in how networks behave, and we train models to read those signals early.
 
